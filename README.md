@@ -2,17 +2,46 @@
 
 This readme file provides an overview of a market segmentation study conducted for internet services in the San Juan Bautista Parish, located in the San Cristóbal Municipality, Táchira State. The objective of this study was to identify distinct segments within the local market to meet the specific needs and preferences of each segment.
 
+## Results
+This market segmentation study provides several business benefits for internet service providers operating in the San Juan Bautista Parish:
+
+1. **Enhanced Customer Understanding:** Gain a comprehensive understanding of the diverse customer segments within the market, enabling targeted and personalized services for the 4 obtained segments.
+2. **Improved Marketing Effectiveness:** Develop and implement tailored marketing strategies for each segment, maximizing the impact of promotional efforts and increasing customer acquisition and retention rates.
+3. **Competitive Advantage:** By catering to the specific needs and preferences of each segment, businesses can differentiate themselves from competitors and strengthen their market position.
+4. **Resource Optimization:** Allocate resources more efficiently by focusing on the most promising market segments, reducing wastage and improving overall business efficiency.
+
 ## Objectives Statement
 The main objective of this market segmentation study was to establish a segmentation of the market for internet services in the San Juan Bautista Parish. The specific objectives included:
 1. Designing a representative sample to operationalize the market segmentation.
 2. Identifying market segments based on data obtained from the sample in the San Juan Bautista Parish.
-3. Specifying the characteristics of each identified segment in relation to internet services.
+ Specifying the characteristics of each identified segment in relation to internet services.
 
 ## Challenges
 The challenges faced during this study included:
 1. Gathering accurate and reliable data on the demographics, socioeconomic status, and behavior of consumers in the San Juan Bautista Parish.
-2. Analyzing the data to identify meaningful and distinct market segments.
+2. Analyzing the dirty data to identify meaningful and distinct market segments.
 3. Developing marketing strategies that effectively catered to the unique needs and preferences of each identified segment.
+
+# Dataset Description
+
+The dataset contains information collected from a survey conducted by myself to gather insights about internet service preferences and satisfaction among participants. It includes the following columns:
+
+- **Age Range:** The age of the survey participants.
+- **Gender:** The gender of the survey participants.
+- **Occupation:** The occupation of the survey participants.
+- **Household Size:** Captures the total number of people living in the respondents' houses, including themselves.
+- **Consideration of Household Needs:** 1 if the participants consider or would consider the needs of other household members when acquiring an internet service, 0 otherwise.
+- **Rating of Internet Service Features:** Rates the importance of various features of the internet service at the time of acquisition. (The order of the features reflects their importance, where the first elements are the most important.)
+- **Daily Internet Usage:** Captures the amount of time respondents use the internet daily.
+- **Internet Service Providers:** Represents specific internet service providers available to the respondents.
+- **Preferred Internet Service Provider:** Specifies the internet service provider chosen by the respondents.
+- **Budget Range:** Represents the range within which respondents allocate their budget for the internet service.
+- **Ideal Price Range:** Captures respondents' opinion on the ideal price range for the internet service.
+- **Satisfaction with the Service:** Indicates respondents' satisfaction level with their internet provider.
+- **Service Factors:** Represents different factors related to the internet service (Price, Customer Service and Support, Speed, Uninterrupted Signal Service, Payment Methods).
+- **Willingness to Continue with Increased Price:** 1 if the participants would be willing to continue with the internet service provider if the price increased, 0 otherwise.
+- **Recommendation Source:** Represents different sources through which respondents discovered about the internet service provider (Through the recommendation of someone you know, Internet, Social Media, Television, Radio, Billboards, Posters or Stickers outdoors, Newspapers or magazines), providing insights into the effectiveness of various marketing channels.
+
 
 ## Methodology
 The following methodology was adopted to address the research objectives and challenges:
@@ -32,10 +61,4 @@ The following analysis techniques were employed in this study:
 4. Positioning and Loyalty Analysis: Assessed the satisfaction and loyalty of each segment towards internet services, as well as the relative positioning of different service providers in the market.
 5. Consumption Habits Identification: Analyzed the consumption habits of each segment, including internet usage frequency, preferred services, common uses of the internet, etc., to tailor services and marketing strategies accordingly.
 
-## Business Benefit
-This market segmentation study provides several business benefits for internet service providers operating in the San Juan Bautista Parish:
 
-Enhanced Customer Understanding: Gain a comprehensive understanding of the diverse customer segments within the market, enabling targeted and personalized services.
-Improved Marketing Effectiveness: Develop and implement tailored marketing strategies for each segment, maximizing the impact of promotional efforts and increasing customer acquisition and retention rates.
-Competitive Advantage: By catering to the specific needs and preferences of each segment, businesses can differentiate themselves from competitors and strengthen their market position.
-Resource Optimization: Allocate resources more efficiently by focusing on the most promising market segments, reducing wastage and improving overall business efficiency.
