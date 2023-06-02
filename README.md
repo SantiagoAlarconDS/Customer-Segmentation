@@ -32,7 +32,7 @@ The following analysis techniques were employed in this study:
 4. Positioning and Loyalty Analysis: Assessed the satisfaction and loyalty of each segment towards internet services, as well as the relative positioning of different service providers in the market.
 5. Consumption Habits Identification: Analyzed the consumption habits of each segment, including internet usage frequency, preferred services, common uses of the internet, etc., to tailor services and marketing strategies accordingly.
 
-##Business Benefit
+## Business Benefit
 This market segmentation study provides several business benefits for internet service providers operating in the San Juan Bautista Parish:
 
 Enhanced Customer Understanding: Gain a comprehensive understanding of the diverse customer segments within the market, enabling targeted and personalized services.
