@@ -32,15 +32,23 @@ The dataset contains information collected from a survey conducted by myself to 
 - **Household Size:** Captures the total number of people living in the respondents' houses, including themselves.
 - **Consideration of Household Needs:** 1 if the participants consider or would consider the needs of other household members when acquiring an internet service, 0 otherwise.
 - **Rating of Internet Service Features:** Rates the importance of various features of the internet service at the time of acquisition. (The order of the features reflects their importance, where the first elements are the most important.)
-- **Daily Internet Usage:** Captures the amount of time respondents use the internet daily.
+- **Internet Usage:** Captures the amount of time respondents use the internet daily.
 - **Internet Service Providers:** Represents specific internet service providers available to the respondents.
-- **Preferred Internet Service Provider:** Specifies the internet service provider chosen by the respondents.
-- **Budget Range:** Represents the range within which respondents allocate their budget for the internet service.
+- **Internet Provider:** Specifies the internet service provider chosen by the respondents.
+- **Budget Range:** Represents the range within which respondents allocate their budget for the internet service (Cantv, Vnet, Wisplay, NetUno, Inter, Cable Norte and Infinitics).
 - **Ideal Price Range:** Captures respondents' opinion on the ideal price range for the internet service.
 - **Satisfaction with the Service:** Indicates respondents' satisfaction level with their internet provider.
 - **Service Factors:** Represents different factors related to the internet service (Price, Customer Service and Support, Speed, Uninterrupted Signal Service, Payment Methods).
 - **Willingness to Continue with Increased Price:** 1 if the participants would be willing to continue with the internet service provider if the price increased, 0 otherwise.
-- **Recommendation Source:** Represents different sources through which respondents discovered about the internet service provider (Through the recommendation of someone you know, Internet, Social Media, Television, Radio, Billboards, Posters or Stickers outdoors, Newspapers or magazines), providing insights into the effectiveness of various marketing channels.
+- **Recommendation Source:** Represents different sources through which respondents discovered about the internet service provider (Through the recommendation of someone you know, Internet, Social Media (Named on the dataset as Social Media Coms), Television, Radio, Billboards, Posters or Stickers outdoors, Newspapers or magazines), providing insights into the effectiveness of various marketing channels.
+
+To provide more valuable insights new columns were created to simplify the information and add more value to the analysis. These columns included:
+
+- **Price Matches:** It was the combination of the column "Budget Range" and the column "Ideal Price Range" If the responses to these questions matched, a value of “Match” was assigned. Otherwise, “Not Match” was entered.
+- **Best**: This column was derived from the column "Rating of Internet Service Features" where the characteristic in the first place was extracted as the most important.
+- **Best2**: Using the same basis as the previous column, the second most important characteristic was extracted.
+- **Least**: Similarly, using the column "Rating of Internet Service Features" the least important characteristic, in this case the last one was extracted.
+
 
 
 ## Methodology
