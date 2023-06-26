@@ -64,7 +64,7 @@ The following methodology was adopted to address the research objectives and cha
 ## Analysis Techniques
 The following analysis techniques were employed in this study:
 1. Demographic Analysis: Examined demographic data such as age, gender, occupation, etc., to gain insights into the composition of each segment.
-2. Socioeconomic Analysis: Analyzed socioeconomic factors, including current expenditure on internet services, consumption patterns, etc., to understand the needs and preferences of each segment.
+2. Socioeconomic Analysis: Analyzed socioeconomic factors, including current and ideal expenditure on internet services, to understand the needs and preferences of each segment.
 3. Communication Channel Analysis: Identified the most effective communication channels to reach each segment, such as social media, traditional media, word-of-mouth, etc.
 4. Positioning and Loyalty Analysis: Assessed the satisfaction and loyalty of each segment towards internet services, as well as the relative positioning of different service providers in the market.
 5. Consumption Habits Identification: Analyzed the consumption habits of each segment, including internet usage frequency, preferred services, common uses of the internet, etc., to tailor services and marketing strategies accordingly.
