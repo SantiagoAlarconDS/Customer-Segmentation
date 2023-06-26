@@ -1,25 +1,24 @@
-# conda env create --file environment.yml
-# mamba env create --file environment.yml
 name: customer_segmentation
 channels:
-  - anaconda
   - conda-forge
   - defaults
 dependencies:
-  - black
   - invoke
-  - jupyter
-  - jupyterlab
-  - matplotlib
-  - missingno
-  - nbdime
-  - numpy
-  - pandas
-  - yellowbrick
-  - pip
-  - plotly
-  - pyjanitor
   - pyprojroot
-  - python=3.9.16
-  - seaborn
+  - pip
   - upsetplot
+  - pandas
+  - nbdime
+  - yellowbrick
+  - pyjanitor
+  - jupyter
+  - missingno
+  - jupyterlab
+  - seaborn
+  - python=3.9.16
+  - black
+  - numpy
+  - plotly
+  - matplotlib
+  - openpyxl
+prefix: /usr/local/anaconda3/envs/customer_segmentation
