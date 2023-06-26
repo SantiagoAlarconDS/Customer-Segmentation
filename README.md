@@ -79,7 +79,7 @@ Please read [install.md](install.md) for details on how to set up this project.
     ├── README.md          <- The top-level README for developers using this project.
     ├── install.md         <- Detailed instructions to set up this project.
     │
-    ├── environment.yml    <- The requirements file for reproducing the analysis environment.
+    ├── environment.yml    <- The requirements file for reproducing the analysis
     │
     ├── .here              <- File that will stop the search if none of the other criteria
     │                         apply when searching head of project.
@@ -92,7 +92,6 @@ Please read [install.md](install.md) for details on how to set up this project.
         │
         ├── data           <- Scripts to download or generate data.
         │   ├── __init__.py
-        │   ├── make_dataset.py
         │   ├── clean_raw.ipynb
         │   ├── processed
         │   │   ├── processed.pkl       
@@ -107,7 +106,7 @@ Please read [install.md](install.md) for details on how to set up this project.
         │   ├── pandas_extension.py 
         │   └── paths.py   <- Helper functions to relative file referencing across project.
         │
-        ├── visualization  <- Scripts to create exploratory and results oriented visualizations.
+        ├── visualization  <- Scripts to create exploratory and results oriented 
         │   └── visualize.ipynb
         │
         └── k_means.ipynb 

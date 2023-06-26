@@ -18,7 +18,7 @@ def readme() -> str:
     return open(os.path.join(os.path.dirname(__file__), 'README.md')).read()
 
 setup(
-    name='customer_Segmentation',
+    name='customer_segmentation',
     version='0.1.0',
     author='SantiagoAlarcon',
     author_email='Lsascol01@gmail.com',
