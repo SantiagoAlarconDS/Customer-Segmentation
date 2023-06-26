@@ -69,4 +69,48 @@ The following analysis techniques were employed in this study:
 4. Positioning and Loyalty Analysis: Assessed the satisfaction and loyalty of each segment towards internet services, as well as the relative positioning of different service providers in the market.
 5. Consumption Habits Identification: Analyzed the consumption habits of each segment, including internet usage frequency, preferred services, common uses of the internet, etc., to tailor services and marketing strategies accordingly.
 
+## Installation guide
 
+Please read [install.md](install.md) for details on how to set up this project.
+
+## Project Organization
+
+    ├── LICENSE
+    ├── README.md          <- The top-level README for developers using this project.
+    ├── install.md         <- Detailed instructions to set up this project.
+    │
+    ├── environment.yml    <- The requirements file for reproducing the analysis environment.
+    │
+    ├── .here              <- File that will stop the search if none of the other criteria
+    │                         apply when searching head of project.
+    │
+    ├── setup.py           <- Makes project pip installable (pip install -e .)
+    │                         so customer_segmentation can be imported.
+    │
+    └── customer_segmentation               <- Source code for use in this project.
+        ├── __init__.py    <- Makes customer_segmentation a Python module.
+        │
+        ├── data           <- Scripts to download or generate data.
+        │   ├── __init__.py
+        │   ├── make_dataset.py
+        │   ├── clean_raw.ipynb
+        │   ├── processed
+        │   │   ├── processed.pkl       
+        │   │   ├── spanish.pkl
+        │   │   └── k_means_pca.pkl
+        │   └── raw
+        │       └── raw_data.xlsx
+        │
+        ├── utils          <- Scripts to help with common tasks.
+        │   ├── __init__.py
+        │   ├── encoding.py 
+        │   ├── pandas_extension.py 
+        │   └── paths.py   <- Helper functions to relative file referencing across project.
+        │
+        ├── visualization  <- Scripts to create exploratory and results oriented visualizations.
+        │   └── visualize.ipynb
+        │
+        └── k_means.ipynb 
+
+---
+Project based on the [cookiecutter conda data science project template](https://github.com/jvelezmagic/cookiecutter-conda-data-science).
