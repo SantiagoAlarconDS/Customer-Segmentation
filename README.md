@@ -11,7 +11,7 @@ This market segmentation study provides several business benefits for internet s
 4. **Resource Optimization:** Allocate resources more efficiently by focusing on the most promising market segments, reducing wastage and improving overall business efficiency.
    
 
-* **For a more comprehensive analysis of the obtained results, please consult the attached document "analysis.docx." Additionally, kindly note that this summary provides an overview of the original research paper conducted in Spanish, available as "spanish_analysis.docx."**
+* **For a more comprehensive analysis of the obtained results, please consult the attached document "analysis.docx" Additionally, kindly note that this summary provides an overview of the original research paper conducted in Spanish, available as "spanish_analysis.docx"**
 
 ## Objectives Statement
 The main objective of this market segmentation study was to establish a segmentation of the market for internet services in the San Juan Bautista Parish. The specific objectives included:
