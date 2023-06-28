@@ -1,14 +1,17 @@
 # Market Segmentation for Internet Services in San Juan Bautista Parish, San Cristóbal Municipality, Táchira State
 
-This readme file provides an overview of a market segmentation study conducted for internet services in the San Juan Bautista Parish, located in the San Cristóbal Municipality, Táchira State. The objective of this study was to identify distinct segments within the local market to meet the specific needs and preferences of each segment.
+This readme file provides an overview of a market segmentation research project for my BBA, conducted for internet services in the San Juan Bautista Parish, located in the San Cristóbal Municipality, Táchira State. The objective of this study was to identify distinct segments within the local market to meet the specific needs and preferences of each segment.
 
 ## Results
 This market segmentation study provides several business benefits for internet service providers operating in the San Juan Bautista Parish:
 
-1. **Enhanced Customer Understanding:** Gain a comprehensive understanding of the diverse customer segments within the market, enabling targeted and personalized services for the 4 obtained segments.
+1. **Enhanced Customer Understanding:** Gain a comprehensive understanding of the diverse customer segments within the market, enabling targeted and personalized services for the 3 obtained segments.
 2. **Improved Marketing Effectiveness:** Develop and implement tailored marketing strategies for each segment, maximizing the impact of promotional efforts and increasing customer acquisition and retention rates.
 3. **Competitive Advantage:** By catering to the specific needs and preferences of each segment, businesses can differentiate themselves from competitors and strengthen their market position.
 4. **Resource Optimization:** Allocate resources more efficiently by focusing on the most promising market segments, reducing wastage and improving overall business efficiency.
+   
+
+* **For a more comprehensive analysis of the obtained results, please consult the attached document "analysis.docx." Additionally, kindly note that this summary provides an overview of the original research paper conducted in Spanish.**
 
 ## Objectives Statement
 The main objective of this market segmentation study was to establish a segmentation of the market for internet services in the San Juan Bautista Parish. The specific objectives included:
